@@ -1,6 +1,6 @@
 languageCode = "en-us"
-title = "B&B Da Salvatore Noto"
-baseURL = "https://chimpanji.github.io/example-hugo-site"
+title = "Massively"
+baseURL = "http://localhost:1313/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""

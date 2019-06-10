@@ -1,6 +1,6 @@
 languageCode = "en-us"
-title = "B&B Da Salvatore Noto"
-baseURL = "https://chimpanji.github.io/example-hugo-site"
+title = "Massively"
+baseURL = "https://hugo-theme-massively.netlify.com/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
@@ -18,7 +18,7 @@ disqusShortname = ""
 #     featuredPost = "true"
 #     paginationPages = 2
 #     showFirstLast = false
- 
+
 [languages]
 [languages.en]
   languageName = "English"
@@ -28,3 +28,4 @@ disqusShortname = ""
 #[languages.fr]
 #  languageName = "Français"
 #  title = "Massively - Version Française"
+
