@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B&amp;B Da Salvatore Noto</title>
-    <link>/</link>
+    <link>https://chimpanji.github.io/example-hugo-site/</link>
     <description>Recent content on B&amp;B Da Salvatore Noto</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 10 Jun 2019 09:14:41 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chimpanji.github.io/example-hugo-site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1post</title>
-      <link>/content/post/1post/</link>
+      <link>https://chimpanji.github.io/example-hugo-site/content/post/1post/</link>
       <pubDate>Mon, 10 Jun 2019 09:14:41 +0200</pubDate>
       
-      <guid>/content/post/1post/</guid>
+      <guid>https://chimpanji.github.io/example-hugo-site/content/post/1post/</guid>
       <description># Hello!
 This is B&amp;amp;B website</description>
     </item>

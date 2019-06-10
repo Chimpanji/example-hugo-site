@@ -1,6 +1,9 @@
+baseurl = "https://chimpanji.github.io/example-hugo-site/"
+
 title = "B&B Da Salvatore Noto"
 theme = "Solar"
 paginate = 5
+publishDir = "docs"
 pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
 
 [params]
