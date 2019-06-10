@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>B&amp;B Da Salvatore Noto</title>
-    <link>https://chimpanji.github.io/example-hugo-site/</link>
-    <description>Recent content on B&amp;B Da Salvatore Noto</description>
+    <title>Posts on B&amp;B Da Salvatore Noto</title>
+    <link>https://chimpanji.github.io/example-hugo-site/post/</link>
+    <description>Recent content in Posts on B&amp;B Da Salvatore Noto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2019 09:14:41 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chimpanji.github.io/example-hugo-site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chimpanji.github.io/example-hugo-site/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>1post</title>
-      <link>https://chimpanji.github.io/example-hugo-site/content/post/1post/</link>
-      <pubDate>Mon, 10 Jun 2019 09:14:41 +0200</pubDate>
-      
-      <guid>https://chimpanji.github.io/example-hugo-site/content/post/1post/</guid>
-      <description># Hello!
-This is B&amp;amp;B website</description>
-    </item>
     
     <item>
       <title>Comments example</title>
